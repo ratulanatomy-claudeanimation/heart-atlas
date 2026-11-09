@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="t"><title id="t">Red heart</title>
+<path id="h-base" d="M100 176C46 136 20 106 20 71C20 46 40 28 62 28C80 28 93 38 100 52C107 38 120 28 138 28C160 28 180 46 180 71C180 106 154 136 100 176Z" fill="#d62839"/>
+<path id="h-shade" d="M100 52C107 38 120 28 138 28C160 28 180 46 180 71C180 106 154 136 100 176C128 140 142 100 128 70C120 54 110 52 100 52Z" fill="#8a1426"/>
+<path id="h-gloss" d="M50 52C41 58 38 69 42 81C47 72 55 65 64 62C62 54 58 50 50 52Z" fill="#ffd6d6"/>
+</svg>
