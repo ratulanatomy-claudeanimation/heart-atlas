@@ -1,0 +1,14 @@
+interface:
+  display_name: Draw Better SVG
+  short_description: Plan, draw, render, and refine editable SVG graphics
+  default_prompt: Use $draw-better-svg to classify my SVG task, plan the geometry,
+    and create a visually checked editable result.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,26 @@
+{
+  "subject": "An open book under a desk lamp",
+  "purpose": "Editorial illustration for a reading page",
+  "classification": {
+    "semantic_type": "flat-illustration",
+    "construction": "editable-native-vectors",
+    "delivery": "standalone-static-svg"
+  },
+  "canvas": { "viewBox": [0, 0, 360, 240], "review_widths_px": [180, 360, 720] },
+  "style": {
+    "palette": ["#18383c", "#36746c", "#8fc4b0", "#f8f2e8", "#d9a254"],
+    "line_policy": "Filled masses, fine lines only inside the book",
+    "lighting": "Desk lamp is the only local light source",
+    "background": "Warm opaque paper color"
+  },
+  "composition": {
+    "focal_object": "Open book",
+    "layers_back_to_front": ["room", "lamp", "book", "plant"],
+    "required_landmarks": ["visible center fold", "light opening points toward book"],
+    "negative_space": "Keep the top-right area quiet"
+  },
+  "exact_text": [],
+  "data": null,
+  "constraints": ["No raster images", "Named object groups", "Self-contained SVG"],
+  "acceptance": ["Recognizable at 180 px", "No clipped shapes", "Book reads as two joined pages"]
+}
